@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chebbyyy&label=Profile%20views&color=0e75b6&style=flat" alt="chebbyyy" /> </p>
 
-<p align="left"> <a href="https://github.com/lucthienphong1120/github-trophies"><img src="https://github-trophies.vercel.app/?username=chebbyyy&theme=flat&row=1&column=7&margin-w=8&rank=-UNKNOWN,-C" alt="chebbyyy" /></a> </p>
+<p align="left"> <a href="https://github.com/lucthienphong1120/github-trophies"><img src="https://github-trophies.vercel.app/?username=chebbyyy&theme=flat&row=1&column=7&margin-w=8" alt="chebbyyy" /></a> </p>
 
 - I'm currently working on **EmpowerHer** ([Frontend](https://empower-her-final-project-npn9.vercel.app/) | [Backend API](https://empower-her-final-project.onrender.com/))
 
